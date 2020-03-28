@@ -73,14 +73,7 @@ textarea{
   border-bottom-right-radius: 15px;
   background-color: #06AED5;
   color: white;
-  height: 100%;
-  width: 100%;
-  top: 0px;
-  right: 0px;
-  width: 20%;
-  padding: 25px;
-  text-align: center;
-  font: 35px;
+  height: 50%;
 }
 
 .saveBtn i:hover {
