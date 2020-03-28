@@ -12,7 +12,7 @@ last hour was one varible off unsure of reason adjusted for in for/loop later.
 
 // write function to create and label box-containers acording to the settings variables
 // labels include both the time of day shown and the button value for the save process
-didn't label button value, and got some wierd jquery console warning but functions worked.
+didn't label button value, and got some wierd jquery console warning but functions worked.    ----------------- fixed for-loop fixed  found new way to access arrays through dom 
 
 
 // create array for storing information for different boxes.
